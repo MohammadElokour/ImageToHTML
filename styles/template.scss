@@ -1,0 +1,88 @@
+@import './variables';
+
+body {
+  background-color: #FBFBFB;
+}
+
+.logos {
+  .text {
+    font-size: 13px
+  }
+
+  .fe-color {
+    color: rgb(185, 184, 184);
+  }
+
+}
+
+
+.parent-container {
+  border-left: 20px solid $secondary-color;
+
+}
+
+.child-element {
+
+  .thumbnail {
+    height: 55px;
+    width: 55px;  
+  }
+  .img {
+    width: 55px;
+    height: 55px;
+  }
+  .text {
+    font-size: 13px;
+  }
+}
+
+.page {
+  color : $textColor;
+  display: flex;
+  margin: auto;
+  max-width: 1385px;
+  justify-content: space-between;
+}
+
+.fadeaway {
+  height: 100px;
+  position: absolute;
+  right: 10px;
+  bottom: -5px;
+  background-origin: padding-box;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 50px 50px rgba(255, 254, 254, 0.9);
+
+  a {
+    text-decoration: none;
+    color: $blue-color;
+    &:hover {
+      color: $blue-color;
+      cursor: pointer;
+    }
+  }
+}
+
+.AR-num {
+  font-size: 2rem;
+  color: lightgray; 
+}
+
+.AR-num-secondary {
+  font-size: 2rem;
+  color: $secondary-color;
+}
+
+
+.card {
+  box-shadow: -2px 2px 5px 1px rgba(204, 201, 201, 0.781);
+  margin-top: 1%;
+
+  .img-container {
+    background-image: url("/resorces/img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+} 
