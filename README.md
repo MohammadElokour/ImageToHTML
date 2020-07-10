@@ -10,3 +10,8 @@ Slicing the below image to a HTML page with the following (Bootstrap + Sass Comp
 
 ![alt text](https://i.ibb.co/6Hvg0Bt/myResult.png)
 
+![alt text](https://i.ibb.co/dgrB7Tt/SS-2.png)
+
+![alt text](https://i.ibb.co/WVw3BVG/SS-3.png)
+
+![alt text](https://i.ibb.co/30V2XLx/SS-4.png)
