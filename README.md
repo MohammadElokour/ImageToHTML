@@ -3,3 +3,10 @@ Slicing the below image to a HTML page with the following (Bootstrap + Sass Comp
 
 
 ![alt text](https://i.ibb.co/syM9KX0/Frontend-Image.png)
+
+
+
+# My Result (ScreenShots) 
+
+![alt text](https://i.ibb.co/6Hvg0Bt/myResult.png)
+
