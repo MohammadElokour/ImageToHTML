@@ -1,5 +1,5 @@
 # ImageToHTML
-Slicing the below image to a HTML page with the following (Bootstrap + Sass Components + Icomoon) with extra focus on sematic HTML elements, SEO and Responsive design.
+Slicing the below image to an HTML page with the following (Bootstrap + Sass Components + Icomoon) with extra focus on semantic HTML elements, SEO and Responsive web design.
 
 
 ![alt text](https://i.ibb.co/syM9KX0/Frontend-Image.png)
